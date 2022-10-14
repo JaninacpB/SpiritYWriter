@@ -10,7 +10,7 @@
 		<FieldTitle2><![CDATA[]]></FieldTitle2>
 		<FieldTitle3><![CDATA[]]></FieldTitle3>
 		<FieldTitle4><![CDATA[]]></FieldTitle4>
-		<LastFullBackup>2022-09-04</LastFullBackup>
+		<LastFullBackup>2022-10-14</LastFullBackup>
 		<WordTarget>0</WordTarget>
 		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
 		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
@@ -27,7 +27,7 @@
 		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
 		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
 		<MRUSpecificTime>00:00:00</MRUSpecificTime>
-		<LastViewedScID>-1</LastViewedScID>
+		<LastViewedScID>1</LastViewedScID>
 		<DeadlineDate1>0001-01-01</DeadlineDate1>
 		<DeadlineDate2>0001-01-01</DeadlineDate2>
 		<DeadlineDate3>0001-01-01</DeadlineDate3>
@@ -47,6 +47,7 @@
 	<LOCATION>
 		<ID>1</ID>
 		<Title><![CDATA[Raum der Stille]]></Title>
+		<SortOrder>1</SortOrder>
 		<AKA><![CDATA[Tempel]]></AKA>
 	</LOCATION>
 
@@ -57,13 +58,53 @@
 	<CHARACTER>
 		<ID>1</ID>
 		<Title><![CDATA[Viano Cordus]]></Title>
+		<Tags><![CDATA[cordus]]></Tags>
+		<SortOrder>1</SortOrder>
 		<AKA><![CDATA[Vivi]]></AKA>
 		<FullName><![CDATA[Viano Felix Cordus]]></FullName>
 		<Major>-1</Major>
 	</CHARACTER>
 
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Letitia]]></Title>
+		<Desc><![CDATA[Weberin in Nußbach 
+Cousine von Val und Viano 
+Streberin
+Antagonist für Viano]]></Desc>
+		<Tags><![CDATA[cousine cordus weberin]]></Tags>
+		<AKA><![CDATA[Cousine]]></AKA>
+		<Bio><![CDATA[Ihre Mutter verstarb bei ihrer Geburt
+Ihr Vater schlug sie als Weberin vor]]></Bio>
+		<Goals><![CDATA[Mutter wiederbeleben 
+Nicht auffliegen
+]]></Goals>
+		<FullName><![CDATA[Letitia Amelia Cordus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Valentina]]></Title>
+		<Tags><![CDATA[cordus]]></Tags>
+		<AKA><![CDATA[Val]]></AKA>
+		<FullName><![CDATA[Valentina Felicitas Cordus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Calliope ]]></Title>
+		<Major>-1</Major>
+	</CHARACTER>
+
 	</CHARACTERS>
 	<PROJECTNOTES>
+	<PROJECTNOTE>
+		<ID>1</ID>
+		<Title><![CDATA[Magie Regeln]]></Title>
+	</PROJECTNOTE>
+
 	</PROJECTNOTES>
 	<PROJECTVARS>
 	</PROJECTVARS>
@@ -189,6 +230,12 @@ Der Raum lag in Dunkelheit, als das letzte Licht der Blume seine Magie verlor.
 	<WCLog>
 	<WC>
 		<Date>2022-09-04</Date>
+		<Count>1320</Count>
+		<TotalCount>1320</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-10-14</Date>
 		<Count>1320</Count>
 		<TotalCount>1320</TotalCount>
 	</WC>

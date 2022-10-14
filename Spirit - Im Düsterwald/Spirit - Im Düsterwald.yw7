@@ -58,14 +58,53 @@
 	<CHARACTER>
 		<ID>1</ID>
 		<Title><![CDATA[Viano Cordus]]></Title>
+		<Tags><![CDATA[cordus]]></Tags>
 		<SortOrder>1</SortOrder>
 		<AKA><![CDATA[Vivi]]></AKA>
 		<FullName><![CDATA[Viano Felix Cordus]]></FullName>
 		<Major>-1</Major>
 	</CHARACTER>
 
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Letitia]]></Title>
+		<Desc><![CDATA[Weberin in Nußbach 
+Cousine von Val und Viano 
+Streberin
+Antagonist für Viano]]></Desc>
+		<Tags><![CDATA[cousine cordus weberin]]></Tags>
+		<AKA><![CDATA[Cousine]]></AKA>
+		<Bio><![CDATA[Ihre Mutter verstarb bei ihrer Geburt
+Ihr Vater schlug sie als Weberin vor]]></Bio>
+		<Goals><![CDATA[Mutter wiederbeleben 
+Nicht auffliegen
+]]></Goals>
+		<FullName><![CDATA[Letitia Amelia Cordus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Valentina]]></Title>
+		<Tags><![CDATA[cordus]]></Tags>
+		<AKA><![CDATA[Val]]></AKA>
+		<FullName><![CDATA[Valentina Felicitas Cordus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Calliope ]]></Title>
+		<Major>-1</Major>
+	</CHARACTER>
+
 	</CHARACTERS>
 	<PROJECTNOTES>
+	<PROJECTNOTE>
+		<ID>1</ID>
+		<Title><![CDATA[Magie Regeln]]></Title>
+	</PROJECTNOTE>
+
 	</PROJECTNOTES>
 	<PROJECTVARS>
 	</PROJECTVARS>
