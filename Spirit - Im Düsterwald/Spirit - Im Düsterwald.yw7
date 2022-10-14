@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YWRITER7>
+	<PROJECT>
+		<Ver>7</Ver>
+		<Title><![CDATA[Spirit - Im Düsterwald]]></Title>
+		<AuthorName><![CDATA[Janina Bach]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[A sample project you can modify. Or you can delete all the chapters, characters, etc, and start fresh.]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<LastFullBackup>2022-09-04</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider></LatexSceneDivider>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>-1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[Raum der Stille]]></Title>
+		<AKA><![CDATA[Tempel]]></AKA>
+	</LOCATION>
+
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Viano Cordus]]></Title>
+		<AKA><![CDATA[Vivi]]></AKA>
+		<FullName><![CDATA[Viano Felix Cordus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Viano Tempel Blüte ]]></Title>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>1</BelongsToChID>
+		<Goal><![CDATA[Setting setzen, Conflict erschaffen]]></Goal>
+		<Conflict><![CDATA[Blüte geht kaputt, Viano muss überlegen was er macht]]></Conflict>
+		<Outcome><![CDATA[Die Blüte wird zerstört ]]></Outcome>
+		<Field1>5</Field1>
+		<Field2>4</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>1320</WordCount>
+		<LetterCount>8132</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[[b]Die Blüten[/b]
+
+Die blass blaue Silhouette eines Falkens folgte mir in den eigentlich verbotenen Raum der Stille. 
+Mit den hohen Säulen und gepolsterten Treppenstufen, die Brunnenartig hinunter führten, war dies der perfekte Raum für etwas Ruhe. 
+Meret würde hier keine Anweisungen erteilen und Tavian konnte mich schlecht auffordern, auf einen weiteren Übungslauf zu gehen. 
+Zelor ließ sich lautlos auf einer Treppenstufe nieder und betrachtete die pulsierende Blüte in der Mitte des Raumes. Seine Federn sträubten sich ein wenig, während er die ebenso blass blauen Blüte betrachtete, wie sie einige Zentimeter über dem Boden schwebte und so die runde Kammer mit Licht füllte. 
+Auf einer der ersten Treppenstufen, die hinunter führten - und praktischer Weise durch eine Säule den Blick vom Eingang verdeckte- ließ ich mich nieder und streckte meine müden Glieder von mir. 
+"Uff... wurde aber auch Zeit für eine Pause, oder?" 
+Zelor streckte seine Flügel von sich, als würde er mir zustimmen wollen und ich streichelte sanft über seine Gestalt. Meine Hand versank im blauen Nebel seiner Gestalt und seine Feder spreizten sich, als würde es ihn kitzeln. 
+Ein Lachen entwich meiner Kehle und füllte den Raum mit einem verräterischen Echo. 
+"Wenn Tavian uns noch einmal 11 Runden laufen lässt, werde ich ihm sagen was-" 
+Noch ehe ich meine vage Drohung beenden konnte, sprang die eben so entspannte Gestalt meines Gaiß in die Höhe und stieß einen Schrei aus, der zwischen den Säulen zu toben schien. 
+Sofort war ich auf den Beinen und schaute mich um. Unmöglich konnte hier eine Gefahr sein, doch Zelor war nie im Unrecht. Sein Geschrei ließ nach, doch er flog weite Kreise um den Raum. 
+Mit schnellen Schritten und angespannten Muskeln lief ich um die Säulen, aber niemand versteckte sich in den flackernden Schatten. 
+Konnte Zelor sich vertan haben? Spielten seine Geistersinne verrückt?
+Ein weiterer Schrei entstieß meinem Gaiß als würde er mich für diesen Gedanken tadeln wollen. 
+"Was ist-" 
+Auf der Suche nach einer Gefahr im Raum, hatte ich etwas Wichtiges übersehen. Das Licht im Raum hatte angefangen zu flackern. Aber es gab keine Kerzen oder gar Glühbirnen als Lichtquelle, es gab nur die Ovules Blüte. 
+"Shit!" 
+Zelor flog immer enger werdende Kreise um das Zentrum des Raumes der Stille. Ein kräftig blau leuchtende Blüte, so groß wie mein Kopf, die einige Zentimeter über dem Altar schwebte und den Raum mit Wärme und Licht füllte. 
+Nur dass sie es nicht tat. Stattdessen flackerte das Licht und die Blütenblätter fingen an sich zu welken. 
+Die ersten Blüten lösten sich bereits und wurden zu durchsichtigen Nebel, ehe sie auf dem Boden aufschlagen konnten. 
+Zelor schrie erneut. 
+"Mist, mist, mist!" 
+Ich rannte zum Ausgang. Letita musste sofort kommen. Wenn das Schutzschild an den Ovulus gebunden war dann, Mist, Mist, Mist. 
+Ich blickte auf die winzigen Hütten von Nußbach herab, die noch eine Unendlichkeit von Treppen entfernt waren. Zelors Schrei tobte im Tempel, doch selbst diese waren nicht laut genug, um die unten arbeitenden Leute zu alarmieren. 
+Ich streckte meine Hand aus, wallte blaue Flammen auf und versuchte mit zitternden Atem ein Signal zu senden, als plötzlich von hinten etwas in meinen Nacken sprang. 
+Kalt und nass und eine Gänsehaut verbreitete, sprang Zelor durch mich durch und schrie in mein Ohr. Dann sauste er in einem Sturzflug zurück in den Tempel. 
+Er flog über der nun immer kleiner werdende magische Blüte. 
+Sie war kaum mehr da. Verzweifelt sah ich nach Nußbach, doch selbst wenn ich jemanden alarmieren konnte, würde Letita niemals schnell genug hierher kommen. 
+Wir hatten eher Sekunden als Minuten. 
+Meine Schritte führten mich von alleine zurück ins Innere. Schwer hallten sie wieder, während ich fluchend in den Nebenraum lief. Bisher war ich nur drei Mal hier gewesen, einmal mit Vorfreude und einmal mit einer anderen Art von Terror. Aber dafür war jetzt keine Zeit. 
+Zelor flog durch meine Brust und verursachte eine kribbelnde Gänsehaut. Er flog zum Altar am Kopfende des Raumes. Wir ignorierten die Wandmalereien, die Teppiche und all den anderen Tand. Zelor landete auf dem Altartuch und mein Atem setzte kurz aus. Die unscheinbare grüne Tasche, welche hier lag, war eventuell die einzige Möglichkeit, aber trotzdem zögerte ich sie zu nehmen. Zu viele Gruselgeschichten waren in meinem Kopf. Was wenn es stimmte was aus dem einsamen Wanderer wurde? Zelors vorwurfsvoller Schrei holte mich zurück in die Wirklichkeit und weg von albenden Kindergeschichten. Ich packte das Etui und sprintete zurück in den Raum der Stille. 
+Es war nicht mehr viel übrig. Blüte um Blüte hatte die Knospe sich geschält, bis nur noch eine Pflanze so groß wie meine Faust da war. 
+Ein Fluch, für den mein Onkel mich wohl 100 Runden hätte laufen lassen, entfuhr mir und ich stürzte nach unten. In dem leichten blass blauen Nebel kniete ich mich vor das nun so empfindliche Zentrum der Magie. Mit zittrigen Fingern öffnete ich das Etui und eine Handvoll Nadeln verstreuten sich über den Boden. Manche aus hellem oder dunklem Holz, andere aus Knochen, alte wie auch neue, doch allesamt mit der Runensprache besetzt. 
+“Okay… Okay… Vielleicht, diese?” 
+Ich nahm eine aus schwarzem Holz in die Hand und setzte vorsichtig an, in die Blüte zu stechen. 
+Ein ruckartiger Schmerz zog durch meinen Körper und füllte den Raum mit einem Schmerzenschrei. Es fühlte sich an als würde jemand an dem Faden meines Seins ziehen. Klimpern landete die Nadel auf dem Boden liegen, wo sie pulsierend vor Magie hin und her zitterte. 
+“Okay… sorry… diese?”, brachte ich es schwer atmend heraus. 
+Ich nahm eine zweite Nadel hervor, dieses Mal eine aus Knochen. Dieses Mal setzte ich an bei einer gerade fallenden Blüte. 
+Noch während meine Hand durch die Luft fuhr, erschien ein winziger Fade aus Silber, welcher sich vorsichtig hinter der Nadel her zog. So zerbrechlich wie die Blume schien er zu sein und doch strahlte er ein weiches Licht aus, als ich die gerade auflösende Blüte durch stieß. Auch die Blüte leuchtete ein wenig stärker auf und stoppte ihren Fall, gehalten durch den silbernen Faden. 
+“Ich wusste es ist nicht so schwierig wie Letita immer behauptet.”, brachte ich irgendwie zwischen zwei Atemzügen hervor, während der Schweiß langsam anfing auf meiner Stirn zu perlen.
+Meine Hand zitterte, obwohl die Nadel kaum mehr als ein paar Gramm wiegen konnte. Tatsächlich schien mein ganzer Körper zu krampfen, als würde ein unsichtbares Gewicht zerdrücken, während ich die Nadel langsam zurück zur Knospe führte. 
+So vorsichtig wie ich unter dieser Anstrengung konnte, führte ich die Nadel unten in die Blume ein, um den Faden dann hindurch zu ziehen, bis das fallende Blütenblatt wieder an dem Ort war, wo es hergekommen war.
+Ein triumphierendes Lachen entwich meiner Kehle, als es hielt. 
+Ich konnte es aufhalten! 
+Ich musste einfach nur schnell genug sein. Die Blume verlor noch immer schnell Blüten, war kaum mehr größer als eine Pflaume, doch wenn ich einfach noch schneller sie auffing und befestigte, dann gab es eine Chance. Ich brauchte immer noch hilfe, vielleicht konnte ich Zelor schicken, damit er-
+Kalte Krallen bohrten sich in meine Hand. Tief und mit voller Gewalt, drückten sie erst meine Hand und dann meinen gesamten Körper zu Boden.
+Eine schwere Gestalt landete auf mir. 
+“Was machst du!”, brüllte er und ich roch Erde und Schweiß. 
+“Der Ovelus, er-”, versuchte ich hervorzubringen, doch das Gewicht auf meiner Brust verhinderte, dass ich mehr sagen konnte. Ich wollte ihn von mir drücken, doch all die Anspannung war plötzlich aus meinem Körper verschwunden und ich fühlte mich so erschöpft wie noch nie zuvor in meinem Leben. Völlig hilflos sah ich einfach hoch in das wut verzerrte Gesicht meines Onkels in der Hoffnung er würde merken, in welchen Schmerzen ich war. 
+“Ovelus?”, er sah zur Seite als wäre ihm plötzlich etwas eingefallen. Dann wurde er kahlweiß. Ich folgte seinem Blick und sah, wie die letzte Blüte, welche ich eben noch befestigt hatte, plötzlich den Silbrigen Faden verlor und zu Boden fiel. 
+Der Raum lag in Dunkelheit, als das letzte Licht der Blume seine Magie verlor. 
+]]></SceneContent>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<SortOrder>1</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Chapter 2]]></Title>
+		<SortOrder>2</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2022-09-04</Date>
+		<Count>1320</Count>
+		<TotalCount>1320</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER7>
